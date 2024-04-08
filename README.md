@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm currently creating my own small projects behind the scenes, this page will update soon!
+
 <!--
 **Menyus01/Menyus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
